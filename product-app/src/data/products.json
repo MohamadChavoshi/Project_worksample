@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "لپ‌تاپ ایسوس",
+      "price": 25000000,
+      "category": "لپ‌تاپ",
+      "image": "../src/assets/images/Products/Best-Gaming-Laptops-1.webp",
+      "description": "لپ‌تاپ ایسوس با پردازنده Core i7 و رم 16 گیگابایت"
+    },
+    {
+      "id": 2,
+      "name": "گوشی سامسونگ",
+      "price": 15000000,
+      "category": "موبایل",
+      "image": "../src/assets/images/Products/Iphone.webp",
+      "description": "گوشی سامسونگ گلکسی با صفحه نمایش AMOLED"
+    },
+    {
+      "id": 3,
+      "name": "هدفون سونی",
+      "price": 3000000,
+      "category": "لوازم جانبی",
+      "image": "../src/assets/images/Products/SonyHeadPhone.webp",
+      "description": "هدفون بی‌سیم سونی با کیفیت صدای عالی"
+    },
+    {
+      "id": 4,
+      "name": "تبلت اپل",
+      "price": 20000000,
+      "category": "تبلت",
+      "image": "../src/assets/images/Products/TabletApple.webp",
+      "description": "آیپد پرو با صفحه نمایش 12.9 اینچ"
+    },
+    {
+      "id": 5,
+      "name": "ماوس لاجیتک",
+      "price": 500000,
+      "category": "لوازم جانبی",
+      "image": "../src/assets/images/Products/LogitecMouse.webp",
+      "description": "ماوس گیمینگ لاجیتک با DPI بالا"
+    },
+    {
+      "id": 6,
+      "name": "کیبورد مکانیکی",
+      "price": 2000000,
+      "category": "لوازم جانبی",
+      "image": "../src/assets/images/Products/Keyboard.webp",
+      "description": "کیبورد مکانیکی با سوئیچ‌های Cherry MX"
+    }
+  ]
+  
